@@ -1,0 +1,13 @@
+.fas{
+    color: white;
+    font-size: 60px;
+    border-radius: 50%;
+  }
+  .fas:hover{
+  color:black;
+  }
+  .dark-light{
+      background-image: url("fas fa-moon");
+      border-radius: 80%;
+      border:none;
+  }
